@@ -1,8 +1,8 @@
 const sdk = require('@defillama/sdk');
 const { stakings } = require("../helper/staking");
 const TROVE_FACTORY_CONTRACT = '0x3bB7fFD08f46620beA3a9Ae7F096cF2b213768B3'
-const ALBT = '0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0' // Ethereum version of AllianceBlock
-const BEUR = '0x338Eb4d394a4327E5dB80d08628fa56EA2FD4B81' // BEUR Token Pegged to the Euro
+const ALBT = '0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0' // Ethereum version of AllianceBlock Token
+const BEUR = '0x338Eb4d394a4327E5dB80d08628fa56EA2FD4B81' // BEUR Token pegged to the Euro
 const BNQ = '0x91eFbe97e08D0ffC7d31381c032D05FAd8E25aAA' // BONQ Utility Token
 const BNQ_STAKING_CONTRACT = '0xb1b72B3579b03dFdCfF3195486277605e55Cf703'
 const BNQ_BEUR_UNIV3_POOL = '0xA96373C7a591fd21b86E0c9b8E156CC81E6cBb5e'
